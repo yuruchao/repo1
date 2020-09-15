@@ -1,4 +1,4 @@
-package com.province.postdoctor;
+package com.province.postdoctor.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
